@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @migueljoseofficial
-- 👀 I’m interested in video games, movies, and weight lifting!
-- 🌱 I’m currently learning Computer Science and American Studies at the University Notre Dame!
-- 💞️ I’m looking to collaborate on not many things because I am still learning.
+- 👀 I’m interested in video games, movies, and skateboarding!
+- 🌱 I’m currently studying Computer Science and American Studies at the University Notre Dame!
 - 📫 How to reach me - miguel_maninang@yahoo.com or mmaninan@nd.edu
 
 <!---
